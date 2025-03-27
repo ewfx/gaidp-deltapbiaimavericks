@@ -55,13 +55,13 @@ Dataset Limitations: The sample dataset is small (4 rows), limiting the robustne
    ```
 
 ## 🏗️ Tech Stack
-🔹 Python: Core programming language.
-🔹 Pandas & NumPy: Data manipulation and preprocessing.
-🔹 Scikit-learn: IsolationForest for anomaly detection.
-🔹 Transformers (Hugging Face): bigcode/starcoder for LLM-based rule generation.
-🔹 Streamlit: Interactive web app for compliance monitoring.
-🔹 ReportLab: PDF report generation.
-🔹 Other: Jupyter Notebook for development and testing.
+-🔹 Python: Core programming language.
+-🔹 Pandas & NumPy: Data manipulation and preprocessing.
+-🔹 Scikit-learn: IsolationForest for anomaly detection.
+-🔹 Transformers (Hugging Face): bigcode/starcoder for LLM-based rule generation.
+-🔹 Streamlit: Interactive web app for compliance monitoring.
+-🔹 ReportLab: PDF report generation.
+-🔹 Other: Jupyter Notebook for development and testing.
 
 ## 👥 Team
 - **Avinash Nalla**
