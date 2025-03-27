@@ -65,5 +65,5 @@ pip install -r requirements.txt
 
 ## 👥 Team
 - **Avinash Nalla**
-- **Lochan**
-- **Chaitanya**
+- **Krishna Kodati**
+
