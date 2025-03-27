@@ -44,7 +44,7 @@ Dataset Limitations: The sample dataset is small (4 rows), limiting the robustne
 myenv\Scripts\activate  # On Windows
 # source myenv/bin/activate  # On macOS/Linux
 pip install -r requirements.txt
-   ```
+   
 3. Run the Jupyter notebook:
    ```sh
    jupyter notebook transaction_validator.ipynby
